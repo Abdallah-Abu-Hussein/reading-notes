@@ -1,8 +1,8 @@
 # Markdown language for a non-technical friend :
-## 1. What's Markdwon language ?
+## 1. What's Markdown language ?
 Markdown is a simple markup language that can be used to add formatting to plaintext text documents. Markdown, which was created by John Gruber in 2004, is currently one of the most widely used markup languages in the world.
 In a program like Microsoft Word, you may format words and sentences by clicking buttons, and the changes are immediately visible.That isn't the case with Markdown. so When creating a Markdown-formatted document, you use Markdown syntax to designate which words and phrases should be formatted differently.
-## 2. Why using Markdwon ?
+## 2. Why using Markdown ?
 * Markdown is a future-proof language. You'll be able to view your Markdown-formatted material using a text editing application even if the application you're using stops working in the future. When it comes to books, university theses, and other essential materials that must be saved indefinitely, this is a critical factor.
 * Markdown is all over the place. Markdown is supported by several desktop and web-based apps, including Reddit and GitHub.
 * Everything can be written in Markdown. Websites, documents, notes, books, presentations, email messages, and technical documentation are all created with it.
