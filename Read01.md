@@ -5,9 +5,9 @@ In a program like Microsoft Word, you may format words and sentences by clicking
 ## 2. Why using Markdown ?
 * Markdown is a future-proof language. You'll be able to view your Markdown-formatted material using a text editing application even if the application you're using stops working in the future. When it comes to books, university theses, and other essential materials that must be saved indefinitely, this is a critical factor.
 * Markdown is all over the place. Markdown is supported by several desktop and web-based apps, including Reddit and GitHub.
-* Everything can be written in Markdown. Websites, documents, notes, books, presentations, email messages, and technical documentation are all created with it.
+* Everything can be written in Markdown. Websites, documents, notes, books, presentations, email messages, and technical documentation are all created with it.                   
 ## 3. How Dose it work ?
-The short answer is that you'll need a Markdown application that can handle the Markdown file. There are a variety of options, ranging from simple scripts to desktop applications that resemble Microsoft Word. Despite their cosmetic variances, each program accomplishes the same goal. They all, like Dillinger, transform Markdown-formatted text to HTML so that it can be viewed in a browser.
+Markdown applications employ a Markdown processor (also known as a "parser" or "implementation") to convert Markdown-formatted text to HTML format. Your document can then be viewed in a web browser or printed after being integrated with a style sheet. A visual illustration of this procedure can be found below.
 ![How it works ](https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080)
 
 ## some cool examples on using markdown language :
