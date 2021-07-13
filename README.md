@@ -3,5 +3,5 @@
 
 My Reads |Links
 ------------ | -------------
-Growth Mindsets | 
-Markdown language for a non-technical friend : | 
+Growth Mindset | [Growth Mindset link](https://abdallah-abu-hussein.github.io/reading-notes/Growth%20mindset)
+Markdown language for a non-technical friend : | [Markdown language link](https://abdallah-abu-hussein.github.io/reading-notes/Read01)
