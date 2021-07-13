@@ -6,4 +6,5 @@ My Reads |Links
 Growth Mindset  | [Growth Mindset link](https://abdallah-abu-hussein.github.io/reading-notes/Growth%20mindset)
 Markdown language for a non-technical friend  | [Markdown language link](https://abdallah-abu-hussein.github.io/reading-notes/Read01)
 Git for non technical friend | [Git link](https://abdallah-abu-hussein.github.io/reading-notes/Read02)
+
 ![This my repo](https://i.redd.it/66pe7g9wtnr21.jpg)
