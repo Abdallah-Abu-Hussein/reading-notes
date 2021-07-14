@@ -1,4 +1,4 @@
-# **What I learnd about HTML** 
+# **What I learend about HTML** 
 ![HTML logo](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png)
 
 ## 1) HTML stands for (HyperText Markup Language) 
