@@ -7,7 +7,7 @@ Growth Mindset  | [Growth Mindset link](https://abdallah-abu-hussein.github.io/r
 Markdown language for  non-technical friend  | [Markdown language link](https://abdallah-abu-hussein.github.io/reading-notes/Read01)
 Git for non technical friend | [Git link](https://abdallah-abu-hussein.github.io/reading-notes/Read02)
 What I learnd about HTML | [About HTML link ](https://abdallah-abu-hussein.github.io/reading-notes/Read03)
-What I leraned About Javascript | [Javascript link](https://abdallah-abu-hussein.github.io/reading-notes/Read04) 
+What I lreaned About Javascript | [Javascript link](https://abdallah-abu-hussein.github.io/reading-notes/Read04) 
 
 
 ![This my repo](https://i.redd.it/66pe7g9wtnr21.jpg)

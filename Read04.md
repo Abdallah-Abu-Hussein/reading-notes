@@ -1,4 +1,4 @@
-# What I leraned About Javascript 
+# What I lreaned About Javascript 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/197px-Unofficial_JavaScript_logo_2.svg.png)
 ## 1) what is it ?
 JavaScript is a dynamic programming language that's used for a variety of purposes, including web development, web apps, game creation, and more. It enables you to add dynamic features to web sites that you couldn't do with just HTML and CSS.
