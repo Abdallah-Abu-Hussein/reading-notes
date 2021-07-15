@@ -1,5 +1,5 @@
 # What I learnd About CSS :
-![CSS logo] (https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png)
+![CSS logo](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png)
 
 "Cascading Style Sheet" is an acronym for "Cascading Style Sheet." The layout of Web pages is formatted using Cascading Style Sheets. They can be used to define text styles, table sizes, and other characteristics of Web pages that were previously solely defined in the HTML of the page.
 
