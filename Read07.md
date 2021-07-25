@@ -1,5 +1,5 @@
 
- # Functions in JavaScript 
+# Functions in JavaScript 
  ![javascript](https://miro.medium.com/max/3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
 
 ## what's a Function ?
