@@ -14,6 +14,7 @@ __Myth 3__: *Praise helps people have a growth mindset. It depends on what you'r
 ![Mindset](https://static.vecteezy.com/system/resources/previews/001/225/333/non_2x/growth-mindset-and-fixed-mindset-concept-vector.jpg)
 
  Some reminders to yourself of how to keep yourself in a growth mindset :
+
  1. Acknowledge and embrace imperfections.
  2. View challenges as opportunities.
  3. Try different learning tactics.

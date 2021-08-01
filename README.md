@@ -12,3 +12,24 @@ What I learnd about CSS |  [CSS link](https://abdallah-abu-hussein.github.io/rea
 
 
 ![This my repo](https://i.redd.it/66pe7g9wtnr21.jpg)
+
+
+# Code 201 Reading Notes
+
+My Reads |    Links
+------------ | -------------
+Class 01   |
+Class 02   |  
+Class 03   |
+Class 04   |
+Class 05   |
+Class 06   |
+Class 07   |
+Class 08   |
+Class 09   |
+Class 10   |
+Class 11   |
+Class 12   |
+Class 13   |
+Class 14   |
+Class 15   |
