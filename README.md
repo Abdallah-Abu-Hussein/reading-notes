@@ -16,8 +16,6 @@ What I learnd about CSS |  [CSS link](https://abdallah-abu-hussein.github.io/rea
 Functions in JavaScript  | [Functions](https://abdallah-abu-hussein.github.io/reading-notes/Read07)
 
 #
-![This my repo](https://i.redd.it/66pe7g9wtnr21.jpg)
-#
 
 # Code 201 Reading Notes
 
@@ -38,3 +36,7 @@ Class 12   |
 Class 13   |
 Class 14   |
 Class 15   |
+
+#
+![This my repo](https://i.redd.it/66pe7g9wtnr21.jpg)
+#
