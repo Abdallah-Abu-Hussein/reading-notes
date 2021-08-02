@@ -21,7 +21,7 @@ Functions in JavaScript  | [Functions](https://abdallah-abu-hussein.github.io/re
 
 My Reads |    Links
 ------------ | -------------
-Class 01   |
+Class 01   | [HTML + js again](https://abdallah-abu-hussein.github.io/reading-notes/class-01)
 Class 02   |  
 Class 03   |
 Class 04   |
