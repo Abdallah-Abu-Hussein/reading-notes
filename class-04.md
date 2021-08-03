@@ -136,12 +136,12 @@ Some function return information to the code that called them. For example, when
 Getting a multiple values out of function
 function can return more than one value using array. for example, this function calculates the area and the voulme of a box.
 
-` function getSize(width, height, depth) { `
+`function getSize(width, height, depth) { `
 
-` var area = width * height; var volume = width * height * depth; `
+`var area = width * height; var volume = width * height * depth; `
 
-` var sizes = [area, volume]; } `
+`var sizes = [area, volume]; } `
 
 `var areaOne = getSize(3, 2, 3)[0];`
 
-` var volumeOne = getSize(3, 2, 3)[1];`
+`var volumeOne = getSize(3, 2, 3)[1];`
