@@ -138,10 +138,10 @@ function can return more than one value using array. for example, this function 
 
 ` function getSize(width, height, depth) { `
 
-   ` var area = width * height; var volume = width * height * depth; `
+` var area = width * height; var volume = width * height * depth; `
 
-  ` var sizes = [area, volume]; } `
+` var sizes = [area, volume]; } `
 
-   `var areaOne = getSize(3, 2, 3)[0];`
+`var areaOne = getSize(3, 2, 3)[0];`
 
-   ` var volumeOne = getSize(3, 2, 3)[1];`
+` var volumeOne = getSize(3, 2, 3)[1];`
