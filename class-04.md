@@ -124,9 +124,10 @@ Some function return information to the code that called them. For example, when
 
 `function calcualteArea(width, height)` `{`
 
-   ` var area = width * height;`
+` var area = width * height;`
 
-    `return area;`
+`return area;`
+
 `}`
 
 `var wallOne = calculateArea(3, 5);`
@@ -141,6 +142,6 @@ function can return more than one value using array. for example, this function 
 
   ` var sizes = [area, volume]; } `
 
-    `var areaOne = getSize(3, 2, 3)[0]; `
+   `var areaOne = getSize(3, 2, 3)[0];`
 
    ` var volumeOne = getSize(3, 2, 3)[1];`
