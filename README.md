@@ -23,8 +23,8 @@ My Reads |    Links
 ------------ | -------------
 Class 01   | [HTML + js again](https://abdallah-abu-hussein.github.io/reading-notes/class-01)
 Class 02   | [More on CSS/Html/Js](https://abdallah-abu-hussein.github.io/reading-notes/class-02) 
-Class 03   |
-Class 04   |
+Class 03   |[Html lists, js arrays,loops](https://abdallah-abu-hussein.github.io/reading-notes/class-03)
+Class 04   |[Html Links, css , js functions](https://abdallah-abu-hussein.github.io/reading-notes/class-04)
 Class 05   |
 Class 06   |
 Class 07   |
