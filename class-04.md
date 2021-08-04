@@ -9,25 +9,36 @@ Opening Links in a New Window
 target
 
   `<a href="http://www.imdb.com" target="_blank">`
+
   Internet Movie Database`</a>` (opens in new window)
 Linking to a Specific Part of the Same Page
 At the top of a long page you might want to add a list of contents that links to the corresponding sections lower down. Or you might want to add a link from part way down the page back to the top of it to save users from having to scroll back to the top.
 
 `<h1 id="top">Film-Making Terms</h1>`
+
 `<a href="#arc_shot">Arc Shot</a><br />`
+
 `<a href="#interlude">Interlude</a><br />`
+
 `<a href="#prologue">Prologue</a><br /><br />`
+
 `<h2 id="arc_shot">Arc Shot</h2>`
+
 `<p>`A shot in which the subject is photographed by an
  encircling or moving camera`</p>`
+
 <`h2 id="interlude">Interlude</h2>`
+
 `<p>`A brief, intervening film scene or sequence, not
  specifically tied to the plot, that appears
  within a film`</p>`
+
 `<h2 id="prologue">Prologue</h2>`
+
 `<p>`A speech, preface, introduction, or brief scene
  preceding the the main action or plot of a film;
  contrast to epilogue`</p>`
+
 `<p><a href="#top">Top</a></p>`
 
 # Summary
@@ -38,6 +49,7 @@ You can create links to open email programs with an email address in the “to�
 You can use the id attribute to target elements within a page that can be linked to.
  # Layout
 **Controlling the Position of Elements**
+
 CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.
 
 # Normal flow
@@ -94,9 +106,13 @@ Functions let you group a series of statements together to perform a specific ta
 `var msg = 'Sign up to recive out newsletter for 10% off!';`
 
 `function updateMessage() {`
-    `var el = document.getElementById('message');`
-    `el.textContent = msg;`
+
+   `var el = document.getElementById('message');`
+
+   `el.textContent = msg;`
+  
 `}`
+
 updateMessage();
 Declearing a function
 To create a function, you give it a name and then write the statements needed to achibe it’s task inside the curly braces. This known as a function declaration. 
