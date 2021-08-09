@@ -26,8 +26,8 @@ Class 02   | [More on CSS/Html/Js](https://abdallah-abu-hussein.github.io/readin
 Class 03   |[Html lists, js arrays,loops](https://abdallah-abu-hussein.github.io/reading-notes/class-03)
 Class 04   |[Html Links, css , js functions](https://abdallah-abu-hussein.github.io/reading-notes/class-04)
 Class 05   |[CSS : images/text/color](https://abdallah-abu-hussein.github.io/reading-notes/class-05)
-Class 06   |
-Class 07   |
+Class 06   |[The Dom and objects in js](<https://abdallah-abu-hussein.github.io/reading-notes/class-06>)
+Class 07   |[]((<https://abdallah-abu-hussein.github.io/reading-notes/class-07>)
 Class 08   |
 Class 09   |
 Class 10   |
