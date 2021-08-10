@@ -22,20 +22,20 @@ Functions in JavaScript  | [Functions](https://abdallah-abu-hussein.github.io/re
 My Reads |    Links
 ------------ | -------------
 Class 01   | [HTML + js again](https://abdallah-abu-hussein.github.io/reading-notes/class-01)
-Class 02   | [More on CSS/Html/Js](https://abdallah-abu-hussein.github.io/reading-notes/class-02) 
+Class 02   | [More on CSS/Html/Js](https://abdallah-abu-hussein.github.io/reading-notes/class-02)
 Class 03   |[Html lists, js arrays,loops](https://abdallah-abu-hussein.github.io/reading-notes/class-03)
 Class 04   |[Html Links, css , js functions](https://abdallah-abu-hussein.github.io/reading-notes/class-04)
 Class 05   |[CSS : images/text/color](https://abdallah-abu-hussein.github.io/reading-notes/class-05)
-Class 06   |[The Dom and objects in js](<https://abdallah-abu-hussein.github.io/reading-notes/class-06>)
-Class 07   |[ Domain Modeling](<https://abdallah-abu-hussein.github.io/reading-notes/class-07>)
-Class 08   |[CSS Layout](<https://abdallah-abu-hussein.github.io/reading-notes/class-08>)
-Class 09   |[Forms and Events](https://abdallah-abu-hussein.github.io/reading-notes/class-09>)
-Class 10   |
-Class 11   |
-Class 12   |
-Class 13   |
-Class 14   |
-Class 15   |
+Class 06   |[The Dom and objects in js](https://abdallah-abu-hussein.github.io/reading-notes/class-06)
+Class 07   |[Domain Modeling](https://abdallah-abu-hussein.github.io/reading-notes/class-07)
+Class 08   |[CSS Layout](https://abdallah-abu-hussein.github.io/reading-notes/class-08)
+Class 09   |[Forms and Events](https://abdallah-abu-hussein.github.io/reading-notes/class-09)
+Class 10   |[]()
+Class 11   |[]()
+Class 12   |[]()
+Class 13   |[]()
+Class 14   |[]()
+Class 15   |[]()
 
 #
 ![This my repo](https://i.redd.it/66pe7g9wtnr21.jpg)
