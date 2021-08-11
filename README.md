@@ -30,7 +30,7 @@ Class 06   |[The Dom and objects in js](https://abdallah-abu-hussein.github.io/r
 Class 07   |[Domain Modeling](https://abdallah-abu-hussein.github.io/reading-notes/class-07)
 Class 08   |[CSS Layout](https://abdallah-abu-hussein.github.io/reading-notes/class-08)
 Class 09   |[Forms and Events](https://abdallah-abu-hussein.github.io/reading-notes/class-09)
-Class 10   |[]()
+Class 10   |[js debuging](https://abdallah-abu-hussein.github.io/reading-notes/class-10)
 Class 11   |[]()
 Class 12   |[]()
 Class 13   |[]()
