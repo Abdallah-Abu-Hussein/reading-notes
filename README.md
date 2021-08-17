@@ -33,7 +33,7 @@ Class 09   |[Forms and Events](https://abdallah-abu-hussein.github.io/reading-no
 Class 10   |[js debuging](https://abdallah-abu-hussein.github.io/reading-notes/class-10)
 Class 11   |[Audio, Video, Images in html](https://abdallah-abu-hussein.github.io/reading-notes/class-11)
 Class 12   |[Chart.JS](https://abdallah-abu-hussein.github.io/reading-notes/class-12)
-Class 13   |[]()
+Class 13   |[Local Storage](https://abdallah-abu-hussein.github.io/reading-notes/class-13)
 Class 14   |[]()
 Class 15   |[]()
 
