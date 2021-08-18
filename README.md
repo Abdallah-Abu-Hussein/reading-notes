@@ -34,8 +34,8 @@ Class 10   |[js debuging](https://abdallah-abu-hussein.github.io/reading-notes/c
 Class 11   |[Audio, Video, Images in html](https://abdallah-abu-hussein.github.io/reading-notes/class-11)
 Class 12   |[Chart.JS](https://abdallah-abu-hussein.github.io/reading-notes/class-12)
 Class 13   |[Local Storage](https://abdallah-abu-hussein.github.io/reading-notes/class-13)
-Class 14   |[CSS Transforms, Transitions, and Animations](https://abdallah-abu-hussein.github.io/reading-notes/class-14))
-Class 15   |[]()
+Class 14   |[CSS Transforms, Transitions, and Animations](https://abdallah-abu-hussein.github.io/reading-notes/class-14)
+Class 15   |[What Google Learned About Teams](https://abdallah-abu-hussein.github.io/reading-notes/class-14)
 
 #
 ![This my repo](https://i.redd.it/66pe7g9wtnr21.jpg)
