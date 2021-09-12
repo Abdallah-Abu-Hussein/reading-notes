@@ -35,7 +35,7 @@ Class 11   |[Audio, Video, Images in html](https://abdallah-abu-hussein.github.i
 Class 12   |[Chart.JS](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-201/class-12)
 Class 13   |[Local Storage](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-201/class-13)
 Class 14   |[CSS Transforms, Transitions, and Animations](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-201/class-14)
-Class 15   |[What Google Learned About Teams](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-201/class-14)
+Class 15   |[What Google Learned About Teams](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-201/class-15)
 
 
 <br>
@@ -45,6 +45,7 @@ Class 15   |[What Google Learned About Teams](https://abdallah-abu-hussein.githu
 My Reads |    Links
 ------------ | -------------
 Class 01   | [Introduction to React and Components](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-01)
+Class 02   | [State and Props](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-02)
 
 
 
