@@ -8,12 +8,12 @@ I'm 21 years BETC student , From Jordan Amman , I like building things that's wh
 My Reads |Links
 ------------ | -------------
 Growth Mindset  | [Growth Mindset link](https://abdallah-abu-hussein.github.io/reading-notes/Growth%20mindset)
-Markdown language for  non-technical friend  | [Markdown language link](https://abdallah-abu-hussein.github.io/reading-notes/Read01)
-Git for non technical friend | [Git link](https://abdallah-abu-hussein.github.io/reading-notes/Read02)
-What I learnd about HTML | [About HTML link](https://abdallah-abu-hussein.github.io/reading-notes/Read03)
-What I lreaned About Javascript | [Javascript link](https://abdallah-abu-hussein.github.io/reading-notes/Read04)
-What I learnd about CSS |  [CSS link](https://abdallah-abu-hussein.github.io/reading-notes/Read05)
-Functions in JavaScript  | [Functions](https://abdallah-abu-hussein.github.io/reading-notes/Read07)
+Markdown language for  non-technical friend  | [Markdown language link](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-102/Read01)
+Git for non technical friend | [Git link](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-102/Read02)
+What I learnd about HTML | [About HTML link](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-102/Read03)
+What I lreaned About Javascript | [Javascript link](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-102/Read04)
+What I learnd about CSS |  [CSS link](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-102/Read05)
+Functions in JavaScript  | [Functions](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-102/Read07)
 
 #
 
