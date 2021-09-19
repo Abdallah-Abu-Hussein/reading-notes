@@ -48,6 +48,8 @@ Class 01   | [Introduction to React and Components](https://abdallah-abu-hussein
 Class 02   | [State and Props](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-02)
 Class 03   | [Passing Functions as Props](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-03)
 Class 04   | [Forms](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-04)
+Class 05   | [ Putting it all together](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-05)
+Class 06  | [intro to node js](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-06)
 
 
 
