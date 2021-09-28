@@ -50,13 +50,13 @@ Class 03   | [Passing Functions as Props](https://abdallah-abu-hussein.github.io
 Class 04   | [Forms](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-04)
 Class 05   | [ Putting it all together](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-05)
 Class 06  | [intro to node js77](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-0688)
-Class 07  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-07)
-Class 08  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-08)
-Class 09  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-09)
-Class 10  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-10)
-Class 11  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-11)
-Class 12  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-12)
-Class 13  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-13)
+Class 07  | [Rest APIs](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-07)
+Class 08  | [Rest APIs 2](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-08)
+Class 09  | [functional programming](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-09)
+Class 10  | [Stack Calls](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-10)
+Class 11  | [OAuth](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-11)
+Class 12  | [intro to Databases](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-12)
+Class 13  | [CRUD](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-13)
 
 
 
