@@ -49,7 +49,15 @@ Class 02   | [State and Props](https://abdallah-abu-hussein.github.io/reading-no
 Class 03   | [Passing Functions as Props](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-03)
 Class 04   | [Forms](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-04)
 Class 05   | [ Putting it all together](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-05)
-Class 06  | [intro to node js](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-06)
+Class 06  | [intro to node js77](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-0688)
+Class 07  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-07)
+Class 08  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-08)
+Class 09  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-09)
+Class 10  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-10)
+Class 11  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-11)
+Class 12  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-12)
+Class 13  | [](https://abdallah-abu-hussein.github.io/reading-notes/codeFellows-301/class-13)
+
 
 
 
