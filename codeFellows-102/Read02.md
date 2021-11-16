@@ -4,9 +4,9 @@
 
 ## What is Git ?
 
-short answer it's a _*version control system*_
+short answer it's a *version control system*
 
-## What is a _*version control system*_ ?:thinking
+## What is a *version control system* ? :thinking
 
 A version control system is a type of software that enables the development team in quickly communicating and managing(tracking) all changes made to the source code, as well as information such as who made a change and what it was.
 Every contributor who made the modifications has their own branch, and the changes are not really merged into the original source code until all of them have been analyzed. Once all of the changes have been green signaled, they are merged into the main source code. It not only organizes source code but also enhances programmer productivity by streamlining the development process.
@@ -15,9 +15,10 @@ Every contributor who made the modifications has their own branch, and the chang
 
 **Centralized Version Control Systems**: Each user has their own working copy in centralized version control systems because there is only one repository. You must commit to updating the repository with your changes.
 
-![Centeralized version control System](https://media.geeksforgeeks.org/wp-content/uploads/20190624140224/cvcss.png)
+![Centralized version control System](https://media.geeksforgeeks.org/wp-content/uploads/20190624140224/cvcss.png)
 
 **Distributed Version Control Systems**: Multiple repositories are included in distributed version control systems. Each user has their own working copy and repository. Simply committing your changes does not grant anyone access to them. This is because commit will only reflect those changes in your local repository, and you'll need to push them to the central repository to see them.. Similarly, until you have previously pulled other people's modifications into your repository, you do not get other people's changes when you update.
+
 ![Distributed version control](https://media.geeksforgeeks.org/wp-content/uploads/20190624140226/distvcs.png)
 
 ## So Git is
