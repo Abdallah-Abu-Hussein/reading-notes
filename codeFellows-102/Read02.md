@@ -6,7 +6,7 @@
 
 short answer it's a *version control system*
 
-## What is a *version control system* ? :thinking
+## What is a *version control system* ? :thinking:
 
 A version control system is a type of software that enables the development team in quickly communicating and managing(tracking) all changes made to the source code, as well as information such as who made a change and what it was.
 Every contributor who made the modifications has their own branch, and the changes are not really merged into the original source code until all of them have been analyzed. Once all of the changes have been green signaled, they are merged into the main source code. It not only organizes source code but also enhances programmer productivity by streamlining the development process.
